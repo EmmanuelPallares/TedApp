@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   
-  "homepage": "http://ted-app.emmanuelpallares.com/",
+  "homepage": "http://ted-app.emmanuelpallares.com",
   "scripts": {
     "start": "npm-run-all -p client server",
     "client": "react-scripts start",
