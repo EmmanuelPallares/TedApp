@@ -1,4 +1,4 @@
-const BASE_URL = 'http://ted-app.emmanuelpallares.com';
+const BASE_URL = 'http://localhost:3000';
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 const randomNumber = (min = 0, max = 1) =>
